@@ -1,15 +1,16 @@
-# Sai-krishna-Resu<h1 align="center">Hi 👋, I'm Sai Krishna</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | CI/CD</h3>
+<h1 align="center">Hi 👋, I'm Sai Krishna</h1>
+<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | CI/CD | GitHub Actions</h3>
 
 ---
 
 🌟 **About Me**
 
-- 🎓 B.Tech in CSE | 2020
-- 🧑‍💻 Working at Amazon (Non-IT role) since 2021
-- 📚 Transitioning into IT: DevOps & Cloud Projects
-- 🌱 Currently learning: Kubernetes, Terraform
-- 📫 Reach me: saikrishna@example.com
+- 🎓 Graduated in Computer Science & Engineering (B.Tech, 2020)
+- 💼 Currently working at **Amazon** (Non-IT role) since March 2021
+- 🚀 Transitioning into **Cloud & DevOps Engineering**
+- 🧠 Learning: Kubernetes, Terraform, Advanced AWS Services
+- ✍️ I write technical blogs on [Hashnode](https://hashnode.com/@your-hashnode-username)
+- 📫 Reach me at: **saikrishnaresu@gmail.com**
 
 ---
 
@@ -20,44 +21,46 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 📘 **Featured Projects**
 
-- 🔹 [AWS Resume Project](https://github.com/yourusername/aws-resume-project): S3 static website, CI/CD, Route53 DNS, Lambda counter
-- 🔹 [Log Rotation Script](https://github.com/yourusername/log-rotation): Bash script to manage growing log files
-- 🔹 [CI/CD Pipeline](https://github.com/yourusername/devops-pipeline): Docker + Jenkins + GitHub Actions
+- 🔹 [AWS Resume Project](https://github.com/saikrishnaresuk/aws-resume-project):  
+  Host your resume on S3, add Lambda visitor counter, Route53 DNS, and CI/CD with GitHub Actions.
+
+- 🔹 [Log Rotation Script](https://github.com/saikrishnaresuk/log-rotation):  
+  Bash script to compress and archive large log files automatically.
+
+- 🔹 [CI/CD DevOps Pipeline](https://github.com/saikrishnaresuk/devops-pipeline):  
+  Automate builds and deployments using Docker, Jenkins, and GitHub Actions.
 
 ---
 
-📚 **Certifications & Learning**
+📚 **Certifications & Courses**
 
-- 🎖️ AWS Cloud Practitioner (in-progress)
-- 💡 Courses: DevOps with AWS (FLM), Linux Shell Scripting, Terraform Basics
-
----
-
-📊 **GitHub Stats**
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🎖️ AWS Certified Cloud Practitioner *(in progress)*
+- 📘 DevOps with AWS — Full course from FLM
+- 🎓 Linux Shell Scripting, Terraform for Beginners
 
 ---
 
-✍️ **Latest Blog Posts**
+✍️ **Latest Blog Posts on Hashnode**
 <!-- BLOG-POST-LIST:START -->
-- [How to Rotate Log Files in Linux with Bash](https://hashnode.com/your-blog-link)
-- [Deploy Resume Website Using AWS S3 & Route53](https://hashnode.com/your-blog-link)
+- [Rotate and Compress Linux Logs with Bash](https://hashnode.com/@your-hashnode-username/linux-log-rotation)
+- [Deploy Your Resume Website on AWS S3 with CI/CD](https://hashnode.com/@your-hashnode-username/aws-resume-project)
 <!-- BLOG-POST-LIST:END -->
-<img src="https://yourimagehost.com/banner.png" alt="Sai Krishna Banner">
-
-
-
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+📈 **GitHub Stats**
 
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikrishnaresuk&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnaresuk&layout=compact&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=saikrishnaresuk&color=blue)
