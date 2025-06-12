@@ -6,7 +6,7 @@
 🌟 **About Me**
 
 - 🎓 Graduated in Computer Science & Engineering (B.Tech, 2020)
-- 💼 Currently working at **Amazon** (Non-IT role) since March 2021
+- 💼 Currently working at **Amazon** since March 2021
 - 🚀 Transitioning into **Cloud & DevOps Engineering**
 - 🧠 Learning: Kubernetes, Terraform, Advanced AWS Services
 - ✍️ I write technical blogs on [Hashnode](https://hashnode.com/@your-hashnode-username)
