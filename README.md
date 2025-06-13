@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU5YmNiZWMzMjQxOTY5NTBlMjAxYmQxNzM4ZTc0NzU0OWQ1MmM3OCZlcD12MV9pbnRlcm5hbF9naWZzX2lkJmN0PWc/ZFCm6W13MhL78Uj2xP/giphy.gif" width="600" alt="DevOps Pipeline Automation" style="border-radius: 8px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Pipeline Automation" style="border-radius: 8px;">
 </p>
 
 ---
@@ -34,7 +34,7 @@ My daily toolkit empowers me to design, implement, and maintain efficient, autom
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91cjgydDdkOWE2ZXZoYmNsaWJ0ZnN4bTBvYm5xZ2V3NmY1cW5uMiZlcD12MV9pbnRlcm5hbF9naWZzX2lkJmN0PWc/YqR2dD635q5k7qY2vC/giphy.gif" width="400" alt="Automation and Building" style="border-radius: 8px;" />
+  <img src="https://i.giphy.com/media/YqR2dD635q5k7qY2vC/giphy.gif" width="400" alt="Automation and Building" style="border-radius: 8px;" />
 </p>
 
 ---
@@ -70,11 +70,10 @@ Catch my latest technical insights and how-to guides directly on my Hashnode blo
 
 - [Rotate and Compress Linux Logs with Bash](https://hashnode.com/@saikrishnaresu/rotate-and-compress-linux-logs-with-bash)
 - [Deploy Your Resume Website on AWS S3 with CI/CD](https://hashnode.com/@saikrishnaresu/deploy-your-resume-website-on-aws-s3-with-ci-cd)
+
 ---
 
 ### 📈 My GitHub Stats
-
-A quick overview of my activity and preferred languages on GitHub:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saikrishnaresuk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sai's GitHub stats">
