@@ -50,7 +50,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 📩 **Reach out to me:**  
 - 🔗 **LinkedIn:** [linkedin.com/in/saikrishnaresu](https://www.linkedin.com/in/saikrishnaresu)  
-- 💻 **GitHub:** [github.com/saikrishnaresuk](https://github.com/saikrishnaresuk)    
+- 💻 **Hashnode:** [hashnode.com/@saikrishnaresu](https://hashnode.com/@saikrishnaresu)    
 
 🚀 **Follow me on GitHub** and let's innovate together 🎯
 
