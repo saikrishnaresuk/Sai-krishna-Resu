@@ -86,17 +86,3 @@ A quick overview of my activity and preferred languages on GitHub:
 </p>
 
 ---
-
-**Crucial Steps to Ensure it Works:**
-
-1.  **Go to your `saikrishnaresuk/saikrishnaresuk` repository on GitHub.**
-2.  Click on the `README.md` file.
-3.  Click the **pencil icon (edit)** to open the editor.
-4.  **Delete ALL existing content** in the editor.
-5.  **Copy the ENTIRE Markdown code block provided above** (from `<h1 align="center">` to the last `</p>`).
-6.  **Paste it precisely** into the GitHub editor.
-7.  Scroll down and click the **"Commit changes"** button (you can add a commit message like "Update profile README with new GIFs and links").
-8.  **Go to your main GitHub profile page:** `https://github.com/saikrishnaresuk` (or just click on your profile picture -> "Your profile").
-9.  **The README should now render correctly** with all the images, GIFs, and badges visible.
-
-If after doing this, the images and links are *still* not working, please provide new screenshots of your *rendered* GitHub profile page, and I can investigate further!
