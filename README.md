@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrMVKIKk9E2Dltb/giphy.gif" width="600" alt="Building and Deploying" style="border-radius: 8px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjU5YmNiZWMzMjQxOTY5NTBlMjAxYmQxNzM4ZTc0NzU0OWQ1MmM3OCZlcD12MV9pbnRlcm5hbF9naWZzX2lkJmN0PWc/ZFCm6W13MhL78Uj2xP/giphy.gif" width="600" alt="DevOps Pipeline Automation" style="border-radius: 8px;">
 </p>
 
 ---
@@ -34,7 +34,7 @@ My daily toolkit empowers me to design, implement, and maintain efficient, autom
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJmNjAwMjQxOGNlMTI5YzY1M2ZjNzY5MjU5YzU5MmM4ZWIyYzg0YyZlcD12MV9pbnRlcm5hbF9naWZzX2lkJmN0PWc/UoKz1x99O4iZg6r8Pq/giphy.gif" width="400" alt="Automation Flow" style="border-radius: 8px;" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91cjgydDdkOWE2ZXZoYmNsaWJ0ZnN4bTBvYm5xZ2V3NmY1cW5uMiZlcD12MV9pbnRlcm5hbF9naWZzX2lkJmN0PWc/YqR2dD635q5k7qY2vC/giphy.gif" width="400" alt="Automation and Building" style="border-radius: 8px;" />
 </p>
 
 ---
@@ -84,5 +84,3 @@ A quick overview of my activity and preferred languages on GitHub:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikrishnaresuk&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
-
----
