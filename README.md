@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+![MasterHead](https://i.postimg.cc/gJyymFjk/Chat-GPT-Image-Jun-13-2025-04-56-47-PM.png)
 
 # 👋 Hi, I'm Sai Krishna | **Aspiring DevOps Engineer**  
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
