@@ -7,7 +7,7 @@
 
 🔹 Learning **AWS, CI/CD, Docker, and Infrastructure as Code**  
 🔹 Exploring **Linux and Monitoring Tools**  
-🔹 Sharing progress and knowledge through **GitHub and Hashnode**  
+🔹 Sharing progress and knowledge through **GitHub and LinkedIN**  
 
 ---
 
