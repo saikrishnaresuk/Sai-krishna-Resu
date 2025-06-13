@@ -1,13 +1,18 @@
 ![MasterHead](https://i.postimg.cc/4NcfdfZ5/enhanced-image.png)
 
-# 👋 Hi, I'm Sai Krishna | **Aspiring DevOps Engineer**  
+<h1 align="center">Hi 👋, I'm Sai Krishna</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer;Cloud+Enthusiast+%7C+AWS+Lover;Passionate+about+Automation+%26+CI%2FCD" alt="Typing SVG" />
+</p>
+
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 🚀 **Passionate about building scalable DevOps pipelines and cloud-native automation**  
 
 🔹 Learning **AWS, CI/CD, Docker, and Infrastructure as Code**  
 🔹 Exploring **Linux and Monitoring Tools**  
-🔹 Sharing progress and knowledge through **GitHub and LinkedIN**  
+🔹 Sharing progress and knowledge through **GitHub and Hashnode**  
 
 ---
 
@@ -50,7 +55,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 📩 **Reach out to me:**  
 - 🔗 **LinkedIn:** [linkedin.com/in/saikrishnaresu](https://www.linkedin.com/in/saikrishnaresu)  
-- 💻 **Hashnode:** [hashnode.com/@saikrishnaresu](https://hashnode.com/@saikrishnaresu)    
+- 💻 **GitHub:** [github.com/saikrishnaresuk](https://github.com/saikrishnaresuk)    
 
 🚀 **Follow me on GitHub** and let's innovate together 🎯
 
