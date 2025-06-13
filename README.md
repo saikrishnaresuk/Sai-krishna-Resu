@@ -1,72 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sai Krishna</h1>
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+
+# 👋 Hi, I'm Sai Krishna | **Aspiring DevOps Engineer**  
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+🚀 **Passionate about DevOps, Cloud, and Automation**
+
+🔹 Learning and building real-world DevOps projects on AWS  
+🔹 Exploring tools like Docker, Jenkins, GitHub Actions & Terraform  
+🔹 Writing technical blogs and sharing knowledge with the community
+
+---
+
+## 🔧 Tech Stack & Tools  ![tech](https://imgur.com/RknLHXQ.png)
+
+| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation | 🛠️ Config Management |
+|----------------------|------------------|------------------------------|----------------------|-------------------|--------------------------|
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
+| ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |  |  |
+
+| 🖥️ Operating System | 🔃 Version Control | ⚙️ Scripting & Automation |
+|---------------------|--------------------|----------------------------|
+| ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+
+---
+
+## 🧪 Projects & Hands-On Work
+
+📌 **AWS Resume Project**: A CI/CD pipeline that deploys a resume to S3 with a Lambda counter and GitHub Actions deploy.  
+📌 **Log Rotation Script**: Bash script that compresses and rotates system logs automatically.  
+📌 **Static Website Hosting**: S3 + Route53 + SSL + CI/CD setup for low-cost deployment.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer;Cloud+Enthusiast+%7C+AWS+Lover;Passionate+about+Automation+%26+CI%2FCD" alt="Typing SVG" />
+  <img src="https://github.com/saikrishnaresuk/Sai-krishna-Resu/raw/main/devops-pipeline/assets/devops-cycle.gif" width="400" alt="DevOps Cycle" />
 </p>
 
 ---
 
-🎯 I'm transitioning from a non-IT background to DevOps and Cloud Engineering.
+## 📚 Learning & Growth
 
-🚀 Currently building and deploying real-world projects using AWS, GitHub Actions, and more.
-
-📚 Continuously upskilling in Linux, Terraform, and Kubernetes.
-
-💬 Ask me about **AWS**, **DevOps tools**, or **career switch to IT**.
-
-📫 Reach me: **[saikrishnaresu@gmail.com](mailto:saikrishnaresu@gmail.com)**
+🎯 Currently focusing on:
+- ☁️ AWS Developer Tools
+- ⚙️ CI/CD with GitHub Actions
+- 📊 Monitoring with Prometheus + Grafana
+- 📘 Writing weekly technical blogs on Hashnode
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## 📢 Let's Connect
 
-My daily toolkit empowers me to design, implement, and maintain efficient, automated, and secure systems.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saikrishnaresuk)
+- 💻 [GitHub](https://github.com/saikrishnaresuk)
+- 📩 saikrishnaresu@gmail.com
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saikrishnaresuk/devops-pipeline/main/assets/devops-cycle.gif" width="400" alt="DevOps Cycle" />
-</p>
+Feel free to connect or collaborate — let’s build something awesome 🚀
 
 ---
 
-## 🔷 Featured Projects
-
-Explore some of my hands-on projects, demonstrating my expertise in Cloud Infrastructure, CI/CD, and automation:
-
-- [🔗 AWS Resume Project](https://github.com/saikrishnaresuk/aws-resume-project):  
-  A complete CI/CD pipeline that deploys a static resume website on **AWS S3**. This project features a **Lambda** function for visitor counting, **Route53** for custom DNS, and automated deployments via **GitHub Actions**.  
-  It showcases a full-stack DevOps workflow with cost-effective cloud usage.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikrishnaresuk&show_icons=true&theme=radical" alt="Sai Krishna GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saikrishnaresuk&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saikrishnaresu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saikrishnaresu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@saikrishnaresu" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
-</p>
+![end](https://imgur.com/meVJnmd.png)
