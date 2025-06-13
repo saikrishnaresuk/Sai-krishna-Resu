@@ -9,7 +9,7 @@
 - 💼 Currently working at **Amazon** since March 2021
 - 🚀 Transitioning into **Cloud & DevOps Engineering**
 - 🧠 Learning: Kubernetes, Terraform, Advanced AWS Services
-- ✍️ I write technical blogs on [Hashnode](https://hashnode.com/@your-hashnode-username)
+- ✍️ I write technical blogs on [Hashnode](https://hashnode.com/@saikrishnaresu)
 - 📫 Reach me at: **saikrishnaresu@gmail.com**
 
 ---
